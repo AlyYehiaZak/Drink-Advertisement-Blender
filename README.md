@@ -1,1 +1,1 @@
-# Drink-Advertisement-Blender
+This project involves the creation of a billboard advertisement for a soda can, designed using Blender. The scene captures a vibrant urban environment that showcases the soda can while incorporating elements like a house, cars, traffic, and pets to enhance the overall appeal and context of the advertisement.
